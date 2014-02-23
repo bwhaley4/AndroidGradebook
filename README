@@ -1,0 +1,14 @@
+Android Version of a Gradebook for use by students.
+Set up for Android 4.1+ I don't anticipate changing it to older versions of Android.
+
+Working features:
+Opens to a main menu with several buttons and a drop down menu.
+Can add a semester from the drop down menu.
+
+Future features:
+Save and load data for Semesters, Classes and gradeables.
+Setting to select types of grading.
+Automatic calculation of gpa for classes and semesters.
+Edit and update grades for classes and gradeables.
+Delete semesters, classes and gradeables.
+Holo themes and ability to switch between light and dark Holo.

@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">theGradebook</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="quit">Quit</string>
+    <string name="new_semester">What is this semester called?</string>
+    <string name="new_semester_hint">Ex: Fall 2013</string>
+    <string name="title_activity_semester_activity">Semester</string>
+
+</resources>
